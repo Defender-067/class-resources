@@ -1,1 +1,2 @@
 - Form study groups with classmates
+- Take regular study breaks
